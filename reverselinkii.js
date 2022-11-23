@@ -3,7 +3,6 @@ var reverseBetween = function(head, left, right) {
         return null;
     }
     
-
     if(left == right) {
         return head;
     }
